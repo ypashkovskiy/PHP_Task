@@ -38,7 +38,7 @@ function digitsNumberReverseOrder($number)
            
                  echo "Вывод на экран числа  $value   цифры которого в обратном порядке \n";
                  foreach ($array as $value) {
-                 echo "$value  \n";
+                      echo "$value  \n";
             } 
             }else {
               echo "Нечетных цифр не обнаружено!  \n"; 
